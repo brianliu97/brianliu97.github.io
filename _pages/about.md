@@ -10,8 +10,7 @@ redirect_from:
 
 I am a first-year PhD student at MIT ORC advised by Professor Rahul Mazumder.
 I graduated Cornell in 2020 with a B.S. in Operations Research and I worked at
-Microsoft as a data and applied scientist for a year.
+Microsoft as a data and applied scientist from 2020 to 2021.
 
 I am broadly interested in the intersection of optimization and
-statistical machine learning.
----
+statistical machine learning. 
