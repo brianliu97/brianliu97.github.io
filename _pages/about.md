@@ -13,5 +13,5 @@ I graduated Cornell in 2020 with a B.S. in Operations Research and I worked at
 Microsoft as a data and applied scientist for a year.
 
 I am broadly interested in the intersection of optimization and
-statistical machine learning. 
+statistical machine learning.
 ---
