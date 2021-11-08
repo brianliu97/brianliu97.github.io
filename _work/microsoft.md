@@ -1,6 +1,6 @@
 ---
 title: "Data and Applied Scientist"
-collection: teaching
+collection: work
 #type: ""
 permalink: /work/microsoft
 venue: "Microsoft"
