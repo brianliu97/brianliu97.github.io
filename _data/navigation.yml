@@ -15,6 +15,9 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
+  - title: "Work Experience"
+    url: /work/
+
 #  - title: "CV"
   #  url: /cv/
 
