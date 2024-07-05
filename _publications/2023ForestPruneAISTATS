@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023ForestPruneAISTATS
 excerpt: ''
 date: 2023-04-11
-venue: 'International Conference on Artificial Intelligence and Statistics (KDD)'
+venue: 'International Conference on Artificial Intelligence and Statistics (AISTATS)'
 paperurl: 'https://arxiv.org/abs/2206.00128'
 citation: 'Liu, Brian, and Rahul Mazumder. "ForestPrune: compact depth-pruned tree ensembles." International Conference on Artificial Intelligence and Statistics. PMLR, 2023.'
 ---
