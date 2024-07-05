@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at MIT ORC advised by Professor Rahul Mazumder.
-I am broadly interested in the intersection of optimization and
-statistical machine learning. 
+I am a third-year PhD candidate at the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. I work at the intersection of statistical machine learning and discrete optimization and develop methods to make popular ML algorithms interpretable. 
