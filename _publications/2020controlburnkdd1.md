@@ -6,10 +6,10 @@ excerpt: ''
 date: 2021-05-01
 venue: 'ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)'
 paperurl: 'https://arxiv.org/abs/2107.00219'
-citation: 'B. Liu, M. Xie, and M. Udell. ControlBurn: Feature selection by sparse forests. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021, 2107.00219'
+citation: 'Liu, Brian, Miaolan Xie, and Madeleine Udell. "Controlburn: Feature selection by sparse forests." Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021.'
 ---
 ControlBurn: Feature Selection by Sparse Forests
 
 [Download paper here](https://arxiv.org/abs/2107.00219)
 
-B. Liu, M. Xie, and M. Udell. ControlBurn: Feature selection by sparse forests. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021, 2107.00219
+Liu, Brian, Miaolan Xie, and Madeleine Udell. "Controlburn: Feature selection by sparse forests." Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021.
