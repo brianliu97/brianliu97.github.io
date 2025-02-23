@@ -22,26 +22,26 @@ Please find my CV [here](files/cvbrian.pdf).
 
 ### Published Conference Papers
 
-- B. Liu and R. Mazumder. Fast: An Optimization Framework for Fast Additive Segmentation, In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+- **B. Liu**  and R. Mazumder. Fast: An Optimization Framework for Fast Additive Segmentation, In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
   
-- B. Liu and R. Mazumder. Fire: An optimization framework for fast interpretable rule extraction. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
+- **B. Liu**  and R. Mazumder. Fire: An optimization framework for fast interpretable rule extraction. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
   
-- B. Liu and R. Mazumder. ForestPrune: Compact depth-pruned tree ensembles. In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
+- **B. Liu**  and R. Mazumder. ForestPrune: Compact depth-pruned tree ensembles. In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
   
-- B. Liu, M. Xie, and M. Udell. ControlBurn: Feature selection by sparse forests. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021
+- **B. Liu** , M. Xie, and M. Udell. ControlBurn: Feature selection by sparse forests. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021
 
 ### Published Journal Papers
 - B. Liu*, Y. Zhang*, S. Henderson, D. Shmoys, P. Frazier. Modeling the risk of in-person instruction during the COVID-19 pandemic, INFORMS Journal of Applied Analytics, 2024.
   
-- P. Frazier, J. M. Cashore, N. Duan, S. Henderson, A. Janmohamed, B. Liu, D. Shmoys, J. Wan, Y. Zhang.
+- P. Frazier, J. M. Cashore, N. Duan, S. Henderson, A. Janmohamed, **B. Liu** , D. Shmoys, J. Wan, Y. Zhang.
 Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study. Proceedings of the National Academy of Sciences.
 
 
 ### Under Review
-- B. Liu and R. Mazumder. Moss: Multi-Objective Optimization for Stable Rule Sets, 2024.
- - 2024 INFORMS Data Mining Society Best Student Paper Competition Winner.
+- **B. Liu**  and R. Mazumder. Moss: Multi-Objective Optimization for Stable Rule Sets, 2024.
+    -2024 INFORMS Data Mining Society Best Student Paper Competition Winner.
    
-- B. Liu and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR)
+- **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR)
 
 
 
