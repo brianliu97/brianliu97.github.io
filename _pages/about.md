@@ -7,14 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my website! I am a fourth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and dicrete optimization, and I focus on developing efficient and interpretable algorithms for data science and ML. I am also interested in developing interpretable ML algorithms for applications in healthcare and policy.
 
-
-
-I am a fourth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. I work at the intersection of statistical machine learning and discrete optimization and develop methods to make ML algorithms interpretable. Prior to graduate school, I worked as a Data and Applied Scientist at Microsoft. 
+Prior to graduate school, I was a Data and Applied Scientist at Microsoft where I worked on online advertising. I am originally from the San Francisco Bay Area.
 
 Please find my CV [here](files/cvbrian.pdf).
 
-## Recognitions
+## Selected Awards
 - 2025 American Statistical Association Statistical Computing Student Paper Competition Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
 
