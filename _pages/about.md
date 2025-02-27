@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a fourth-year PhD candidate at the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. I work at the intersection of statistical machine learning and discrete optimization and develop methods to make ML algorithms interpretable. Prior to graduate school, I worked as a Data and Applied Scientist at Microsoft. 
+I am a fourth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. I work at the intersection of statistical machine learning and discrete optimization and develop methods to make ML algorithms interpretable. Prior to graduate school, I worked as a Data and Applied Scientist at Microsoft. 
 
 Please find my CV [here](files/cvbrian.pdf).
 
@@ -22,7 +22,7 @@ Please find my CV [here](files/cvbrian.pdf).
 
 ### Refereed Conference Papers
 
-- **B. Liu**  and R. Mazumder. Fast: An Optimization Framework for Fast Additive Segmentation, In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+- **B. Liu**  and R. Mazumder. Fast: An Optimization Framework for Fast Additive Segmentation. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
   
 - **B. Liu**  and R. Mazumder. Fire: An Optimization Framework for Fast Interpretable Rule Extraction. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
   - 2025 American Statistical Association Statistical Computing Student Paper Competition Winner.
@@ -43,6 +43,8 @@ Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study. Procee
   - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place.
    
 - **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR)
+
+- **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025, Submitted to Operations Research
 
 ## Talks
 
