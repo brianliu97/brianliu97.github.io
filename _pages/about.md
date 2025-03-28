@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am a fourth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and dicrete optimization, and I focus on developing efficient and interpretable algorithms for data science and ML. I am also interested in developing interpretable ML algorithms for applications in healthcare and policy.
+Welcome to my website! I am a fourth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and discrete optimization, and I focus on developing efficient and interpretable algorithms for data science and ML. I am also interested in developing interpretable ML algorithms for applications in healthcare and policy.
 
 Prior to graduate school, I was a Data and Applied Scientist at Microsoft where I worked on online advertising. I am originally from the San Francisco Bay Area.
 
