@@ -22,9 +22,9 @@ Please find my CV [here](files/cvbrian.pdf).
 ### Refereed Conference Papers
 
 - **B. Liu**  and R. Mazumder. Fast: An Optimization Framework for Fast Additive Segmentation. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
-  
-- **B. Liu**  and R. Mazumder. Fire: An Optimization Framework for Fast Interpretable Rule Extraction. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
   - 2025 American Statistical Association Statistical Computing Student Paper Competition Winner.
+
+- **B. Liu**  and R. Mazumder. Fire: An Optimization Framework for Fast Interpretable Rule Extraction. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
   
 - **B. Liu**  and R. Mazumder. ForestPrune: Compact Depth-Pruned Tree Ensembles. In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
   
