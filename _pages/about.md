@@ -15,7 +15,7 @@ Please find my CV [here](files/cvbrian.pdf).
 
 # Selected Awards and Honors
 - Invited to the 2025 ISyE-MS&E-IOE Rising Stars Workshop 
-- 2025 American Statistical Association Statistical Computing Student Paper Competition Winner
+- 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
 
 # Publications
