@@ -28,7 +28,7 @@ Please find my CV [here](files/cvbrian.pdf).
 
 ### Published Works
 
-- **B. Liu**  and R. Mazumder. MOSS: Multi-Objective Optimization for Stable Rule Sets, 2024. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
+- **B. Liu**  and R. Mazumder. MOSS: Multi-Objective Optimization for Stable Rule Sets. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
   - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place.
 
 - **B. Liu**  and R. Mazumder. FASTopt: An Optimization Framework for Fast Additive Segmentation. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
