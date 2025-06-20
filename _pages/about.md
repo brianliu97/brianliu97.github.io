@@ -22,9 +22,11 @@ Please find my CV [here](files/cvbrian.pdf).
 
 ### Under Review
 
-- **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR).
+- **B. Liu**, R. Mazumder, and P. Radchenko. Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, 2025. Submitted to Journal of the American Statistical Association.
 
-- **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025, Submitted to Operations Research.
+- **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research.
+
+- **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR).
 
 ### Published Works
 
