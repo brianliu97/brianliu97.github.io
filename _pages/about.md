@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am a fourth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and discrete optimization, and I focus on developing efficient and explainable algorithms for data science and ML. I am also interested in developing interpretable ML methods for healthcare and public policy.
+Welcome to my website! I am a final-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and discrete optimization, and I focus on developing efficient and explainable algorithms for data science and ML. I am also interested in developing interpretable ML methods for healthcare and public policy.
 
 Prior to graduate school, I was a Data and Applied Scientist at Microsoft where I worked on online advertising and I am originally from the San Francisco Bay Area.
 
 Please find my CV [here](files/cvbrian.pdf).
 
-## Select Honors and Awards
+## Selected Honors and Awards
 - Invited to the 2025 ISyE-MS&E-IOE Rising Stars Workshop 
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
@@ -22,7 +22,7 @@ Please find my CV [here](files/cvbrian.pdf).
 
 ### Under Review
 
-- **B. Liu**, R. Mazumder, and P. Radchenko. Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, 2025. Submitted to Journal of the American Statistical Association.
+- **B. Liu**, R. Mazumder, and P. Radchenko. Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, https://arxiv.org/abs/2506.20114, 2025. Submitted to Journal of the American Statistical Association.
 
 - **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research.
 
