@@ -26,7 +26,7 @@ Please find my CV [here](files/cvbrian.pdf).
 
 - **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research.
 
-- **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR).
+- **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, [arxiv.org/abs/2402.12668](https://arxiv.org/abs/2402.12668) , 2024. R&R at Journal of Machine Learning Research (JMLR).
 
 ### Published Works
 
