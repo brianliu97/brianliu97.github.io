@@ -13,43 +13,274 @@ Prior to graduate school, I was a Data and Applied Scientist at Microsoft where 
 
 Please find my CV [here](files/cvbrian.pdf).
 
-## Selected Honors and Awards
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
 - Invited to the 2025 ISyE-MS&E-IOE Rising Stars Workshop 
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
 
-## Publications
-
-### Under Review
-
-- **B. Liu**, R. Mazumder, and P. Radchenko. Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, https://arxiv.org/abs/2506.20114, 2025. Submitted to Journal of the American Statistical Association.
-
-- **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research.
-
-- **B. Liu**  and R. Mazumder. Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, https://arxiv.org/abs/2402.12668, 2024. R&R at Journal of Machine Learning Research (JMLR).
-
-### Published Works
-
-- **B. Liu**  and R. Mazumder. MOSS: Multi-Objective Optimization for Stable Rule Sets. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
-  - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place.
-
-- **B. Liu**  and R. Mazumder. FASTopt: An Optimization Framework for Fast Additive Segmentation. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
-  - 2025 American Statistical Association Statistical Computing Student Paper Competition Winner.
-
-- **B. Liu**  and R. Mazumder. FIRE: An Optimization Framework for Fast Interpretable Rule Extraction. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
-  
-- **B. Liu**  and R. Mazumder. ForestPrune: Compact Depth-Pruned Tree Ensembles. In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.
-  
-- **B. Liu** , M. Xie, and M. Udell. ControlBurn: Feature Selection by Sparse Forests. In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021.
-
-- **B. Liu\***, Y. Zhang\*, S. Henderson, D. Shmoys, P. Frazier. Modeling the risk of in-person instruction during the COVID-19 pandemic, INFORMS Journal of Applied Analytics, 2024.
-  
-- P. Frazier, J. M. Cashore, N. Duan, S. Henderson, A. Janmohamed, **B. Liu** , D. Shmoys, J. Wan, Y. Zhang.
-Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study. Proceedings of the National Academy of Sciences.
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Research</h2>
 
 
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Under Review</h2>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
 
-## Talks
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/depth_prune.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, 2025, 
+      <a href="https://arxiv.org/abs/2506.20114">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong>, Rahul Mazumder, and Peter Radchenko</li>
+      <li>Submitted to <em>Journal of the American Statistical Association (JASA)</em></li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+
+<!-- - **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research. -->
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/lots.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      Locally Transparent Rule Sets for Explainable Machine Learning, 2025.
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li>Submitted to <em>Operations Research</em></li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/rf_jmlr.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, 2024, 
+      <a href="https://arxiv.org/abs/2402.12668">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li>R&amp;R at <em>Journal of Machine Learning Research (JMLR)</em></li>
+    </ul>
+  </div>
+
+</div>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Published Works</h2>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/moss1.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      MOSS: Multi-Objective Optimization for Stable Rule Sets, 2025,
+      <a href="https://www.arxiv.org/abs/2506.08030">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li> <em>31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em></li>
+      <li style="list-style-type: none; margin-left: -1em; display: flex; align-items: flex-start;">
+  <span style="color: #b30000; margin-right: 0.5em;">📌</span>
+  <span style="color: #b30000;">2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place.</span>
+</li>
+
+    </ul>
+  </div>
+
+</div> 
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/fast2.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      FASTopt: An Optimization Framework for Fast Additive Segmentation, 2024,
+      <a href="https://arxiv.org/abs/2402.12630">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li> <em>30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em></li>
+      <li style="list-style-type: none; margin-left: -1em; display: flex; align-items: flex-start;">
+  <span style="color: #b30000; margin-right: 0.5em;">📌</span>
+  <span style="color: #b30000;">2025 American Statistical Association Statistical Computing Student Paper Competition Winner.</span>
+</li>
+
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/fire1.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      FIRE: An Optimization Framework for Fast Interpretable Rule Extraction, 2023,
+      <a href="https://arxiv.org/abs/2306.07432">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li> <em>29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em></li>
+    </ul>
+  </div>
+
+</div>
+
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/forestprune.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      ForestPrune: Compact Depth-Pruned Tree Ensembles, 2023,
+      <a href="https://arxiv.org/pdf/2206.00128">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li> <em>26th International Conference on Artificial Intelligence and Statistics (AISTATS)</em></li>
+    </ul>
+  </div>
+
+</div>
+
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+  <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/controlburn.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      ControlBurn: Feature Selection by Sparse Forests, 2021,
+      <a href="https://arxiv.org/abs/2107.00219">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong>, Miaolan Xie, and Madeleine Udell</li>
+      <li> <em>27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em></li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+
+
+  <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/ijaa.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      Modeling the Risk of In-Person Instruction During the COVID-19 Pandemic, 2024,
+      <a href="https://arxiv.org/pdf/2310.04563">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong><sup>*</sup>, Yujia Zhang<sup>*</sup>, Shane Henderson, David Shmoys, and Peter Frazier</li>
+      <li> <em>INFORMS Journal of Applied Analytics</em></li>
+    </ul>
+  </div>
+
+</div>
+
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+
+  <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/pnas.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study, 2022,
+      <a href="https://www.pnas.org/doi/10.1073/pnas.2112532119">paper.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li>Peter Frazier, J. Massey Cashore, Ning Duan, Shane G. Henderson, Alyf Janmohamed, <strong>Brian Liu</strong> David B. Shmoys, Jiayue Wan, and Yujia Zhang</li>
+      <li> <em>Proceedings of the National Academy of Sciences</em></li>
+    </ul>
+  </div>
+
+</div>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+
+
+# Talks
 
 - MIT Sloan Health Systems Initiative Annual Workshop, October 2024
   - Interpretable Machine Learning Methods for Predicting Telemental Health Outcomes
