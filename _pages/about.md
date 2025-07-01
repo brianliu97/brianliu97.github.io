@@ -270,7 +270,7 @@ Please find my CV [here](files/cvbrian.pdf).
       <a href="https://www.pnas.org/doi/10.1073/pnas.2112532119">paper.</a>
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
-      <li>Peter Frazier, J. Massey Cashore, Ning Duan, Shane G. Henderson, Alyf Janmohamed, <strong>Brian Liu</strong> David B. Shmoys, Jiayue Wan, and Yujia Zhang</li>
+      <li>Peter Frazier, J. Massey Cashore, Ning Duan, Shane G. Henderson, Alyf Janmohamed, <strong>Brian Liu</strong>, David B. Shmoys, Jiayue Wan, and Yujia Zhang</li>
       <li> <em>Proceedings of the National Academy of Sciences</em></li>
     </ul>
   </div>
