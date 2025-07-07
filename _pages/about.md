@@ -18,6 +18,32 @@ Please find my CV [here](files/cvbrian.pdf).
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
 
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Working Papers</h2>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/tree_prompt.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      TreePrompt: Distilling Boosted Tree Ensembles for In-Context Learning in Large Language Models, 2025.
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
+      <li>Preliminary version appeared in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
+
+
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Under Review</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
@@ -268,7 +294,7 @@ Please find my CV [here](files/cvbrian.pdf).
       <a href="https://www.pnas.org/doi/10.1073/pnas.2112532119">paper.</a>
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
-      <li>Peter Frazier, J. Massey Cashore, Ning Duan, Shane G. Henderson, Alyf Janmohamed, <strong>Brian Liu</strong>, David B. Shmoys, Jiayue Wan, and Yujia Zhang</li>
+      <li>Peter Frazier, J. Massey Cashore, Ning Duan, Shane G. Henderson, Alyf Janmohamed, <strong>Brian Liu</strong> David B. Shmoys, Jiayue Wan, and Yujia Zhang</li>
       <li> <em>Proceedings of the National Academy of Sciences</em></li>
     </ul>
   </div>
