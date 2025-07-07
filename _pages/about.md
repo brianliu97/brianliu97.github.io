@@ -41,8 +41,6 @@ Please find my CV [here](files/cvbrian.pdf).
 
 </div>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Under Review</h2>
@@ -119,7 +117,7 @@ Please find my CV [here](files/cvbrian.pdf).
   </div>
 
 </div>
-<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Published Works</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
@@ -300,11 +298,12 @@ Please find my CV [here](files/cvbrian.pdf).
   </div>
 
 </div>
+
+
+
+
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Talks</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
-
-
-
-# Talks
 
 - MIT Sloan Health Systems Initiative Annual Workshop, October 2024
   - Interpretable Machine Learning Methods for Predicting Telemental Health Outcomes
