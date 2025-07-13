@@ -14,6 +14,7 @@ Prior to graduate school, I was a Data and Applied Scientist at Microsoft where 
 Please find my CV [here](files/cvbrian.pdf).
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
 - Invited to the 2025 ISyE-MS&E-IOE Rising Stars Workshop 
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
@@ -112,7 +113,7 @@ Please find my CV [here](files/cvbrian.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>R&amp;R at <em>Journal of Machine Learning Research (JMLR)</em></li>
+      <li>R&amp;R at <em>Journal of Machine Learning Research (JMLR)</em>, revision submitted</li>
     </ul>
   </div>
 
