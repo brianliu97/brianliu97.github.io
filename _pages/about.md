@@ -11,7 +11,13 @@ Welcome to my website! I am a final-year PhD candidate in the Operations Researc
 
 Prior to graduate school, I was a Data and Applied Scientist at Microsoft where I worked on online advertising and I am originally from the San Francisco Bay Area.
 
+
+**I am on the 2025–2026 academic job market!**
+
+
 Please find my CV [here](files/cvbrian.pdf).
+
+
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
@@ -120,7 +126,7 @@ Please find my CV [here](files/cvbrian.pdf).
 </div>
 
 
-<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Published Works</h2>
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Publications</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
