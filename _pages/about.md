@@ -42,7 +42,7 @@ Please find my CV [here](files/cvbrian.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>Preliminary version appeared in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
+      <li>Preliminary version to appear in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
     </ul>
   </div>
 
@@ -99,6 +99,10 @@ Please find my CV [here](files/cvbrian.pdf).
 
 </div>
 
+
+
+
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Publications</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
 
 
@@ -114,20 +118,18 @@ Please find my CV [here](files/cvbrian.pdf).
   <!-- Right: Text without outer bullet -->
   <div>
     <p style="margin: 0;">
-      Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, 2024, 
+      Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, 2025, 
       <a href="https://arxiv.org/abs/2402.12668">arXiv.</a>
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>R&amp;R at <em>Journal of Machine Learning Research (JMLR)</em>, revision submitted</li>
+      <li>To appear in <em>Journal of Machine Learning Research (JMLR)</em></li>
     </ul>
   </div>
 
 </div>
 
-
-<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Publications</h2>
-<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
 
