@@ -15,7 +15,7 @@ Prior to graduate school, I was a Data and Applied Scientist at Microsoft where 
 **I am on the 2025–2026 academic job market!**
 
 
-Please find my CV [here](files/cvbrian.pdf).
+Please find my CV [here](files/cvbrian1.pdf).
 
 
 
