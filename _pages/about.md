@@ -42,7 +42,7 @@ Please find my CV [here](files/cvbrian.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>Preliminary version to appear in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
+      <li>Preliminary version appeared in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
     </ul>
   </div>
 
@@ -93,7 +93,7 @@ Please find my CV [here](files/cvbrian.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>Submitted to <em>Operations Research</em></li>
+      <li>R&R at <em>Operations Research</em></li>
     </ul>
   </div>
 
@@ -118,7 +118,7 @@ Please find my CV [here](files/cvbrian.pdf).
   <!-- Right: Text without outer bullet -->
   <div>
     <p style="margin: 0;">
-      Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, 2025, 
+      Randomization Can Reduce Both Bias and Variance: A Case Study in Random Forests, 2024, 
       <a href="https://arxiv.org/abs/2402.12668">arXiv.</a>
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
