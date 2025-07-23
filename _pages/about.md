@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am a final-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and discrete optimization, and I focus on developing efficient and explainable algorithms for data science and ML. I am also interested in developing interpretable ML methods for healthcare and public policy.
+Welcome to my website! I am a rising fifth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and discrete optimization, and I focus on developing efficient and explainable algorithms for data science and ML. I am also interested in developing interpretable ML methods for healthcare and public policy.
 
 Prior to graduate school, I was a Data and Applied Scientist at Microsoft where I worked on online advertising and I am originally from the San Francisco Bay Area.
 
@@ -21,7 +21,7 @@ Please find my CV [here](files/cvbrian1.pdf).
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
-- 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellowship
+- 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellow
 - 2025 ISyE-MS&E-IOE Rising Star 
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
