@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! I am a final-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. Prior to graduate school, I was a Data and Applied Scientist at Microsoft and I graduated  Cornell with a B.S. in Operations Research.
 
-My research sits at the intersection of operations research, statistics, and computer science, and I focus on leveraging techniques from discrete and combinatorial optimization to develop efficient, explainable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black-boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. From an applied perspective, I have also worked on using these methods to tackle data science problems in healthcare operations.
+My research focuses on leveraging techniques from discrete and combinatorial optimization to develop efficient, explainable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black-boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. From an applied perspective, I have also worked on using these methods to tackle data science problems in healthcare operations.
 
 **I am on the 2025–2026 academic job market!**
 
