@@ -7,21 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am a rising fifth-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. My research lies in the intersection of statistical machine learning and discrete optimization, and I focus on developing efficient and explainable algorithms for data science and ML. I am also interested in developing interpretable ML methods for healthcare and public policy.
 
-Prior to graduate school, I was a Data and Applied Scientist at Microsoft where I worked on online advertising and I am originally from the San Francisco Bay Area.
+Welcome to my website! I am a final-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. Prior to graduate school, I was a Data and Applied Scientist at Microsoft and I graduated  Cornell with a B.S. in Operations Research.
 
+My research sits at the intersection of operations research, statistics, and computer science, and I focus on leveraging techniques from discrete and combinatorial optimization to develop efficient, explainable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black-boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. From an applied perspective, I have also worked on using these methods to tackle data science problems in healthcare operations.
 
 **I am on the 2025–2026 academic job market!**
 
 
-Please find my CV [here](files/cvbrian1.pdf).
+Please find my CV [here](files/cvbrian.pdf).
 
 
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
-- 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellow
+- 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellowship
 - 2025 ISyE-MS&E-IOE Rising Star 
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
@@ -310,10 +310,37 @@ Please find my CV [here](files/cvbrian1.pdf).
 </div>
 
 
+<h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Teaching</h2>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+<h3>Massachusetts Institute of Technology</h3>
+<ul>
+  <li>Teaching Assistant, <em>15.081 Analytics Edge</em> (MBA)<br>Spring&nbsp;2025</li>
+  <li>Teaching Assistant, <em>15.072 Advanced Analytics Edge</em> (Graduate MBAn)<br>Fall&nbsp;2024</li>
+  <li>Teaching Assistant, <em>15.075 Statistical Thinking and Data Analysis</em> (Undergraduate)<br>Spring&nbsp;2024</li>
+  <li>Teaching Assistant, <em>15.072 Advanced Analytics Edge</em> (Graduate MBAn)<br>Fall&nbsp;2023</li>
+    <li>Teaching Assistant, <em>15.071 Analytics Edge</em> (MBA)<br>Fall&nbsp;2023</li>
+  <li>Teaching Assistant, <em>15.067 Engineering Statistics and Data Science</em> (Graduate LGO)<br>Summer&nbsp;2023</li>
+</ul>
+
+<h3>Cornell University</h3>
+<ul>
+  <li>Teaching Assistant, <em>ORIE 4740: Introduction to Statistical Learning</em><br>Spring&nbsp;2020</li>
+  <li>Teaching Assistant, <em>ORIE 3300: Optimization I</em><br>Fall&nbsp;2018</li>
+</ul>
 
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Talks</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, August 2025
+  - Multi-Objective Optimization for Stable Rule Sets
+
+- Joint Statistical Meeting, August 2025
+  - Efficient Algorithms for Transparent Additive Models
+
+- MIT Industrial Liaison Program Webinar: Unlocking the Value of Employee Wellness, July 2025
+  - Explainable AI for Digital Mental Health
 
 - MIT Sloan Health Systems Initiative Annual Workshop, October 2024
   - Interpretable Machine Learning Methods for Predicting Telemental Health Outcomes
