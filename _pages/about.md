@@ -10,7 +10,8 @@ redirect_from:
 
 Welcome to my website! I am a final-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. Prior to graduate school, I was a Data and Applied Scientist at Microsoft and I graduated  Cornell with a B.S. in Operations Research.
 
-My research focuses on leveraging techniques from discrete and combinatorial optimization to develop efficient, explainable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black-boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. From an applied perspective, I have also worked on using these methods to tackle data science problems in healthcare operations.
+
+I am broadly interested in using data to improve decision-making and ensuring the responsible, trustworthy application of machine learning and AI. More specifically, my research focuses on leveraging techniques from discrete and combinatorial optimization to develop efficient, explainable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. On the applied side, I use these methods to tackle data science problems in [healthcare](https://mitsloan.mit.edu/centers-initiatives/hsi/brian-liu-predicting-patient-success-digital-mental-healthcare).
 
 **I am on the 2025–2026 academic job market!**
 
@@ -43,7 +44,7 @@ Please find my CV [here](files/cvbrian.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>Preliminary version appeared in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025), </em><a href="https://openreview.net/pdf?id=0ZALcXRKAc">paper.</a></li>
+      <li>Preliminary version appeared in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
     </ul>
   </div>
 
@@ -332,9 +333,6 @@ Please find my CV [here](files/cvbrian.pdf).
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Talks</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
-
-- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, August 2025
-  - Multi-Objective Optimization for Stable Rule Sets
 
 - Joint Statistical Meeting, August 2025
   - Efficient Algorithms for Transparent Additive Models
