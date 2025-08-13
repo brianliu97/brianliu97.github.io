@@ -44,9 +44,12 @@ Please find my CV [here](files/cvbrian.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>Preliminary version appeared in <em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em></li>
-    </ul>
-  </div>
+      <li>Preliminary <a href="https://openreview.net/pdf?id=0ZALcXRKAc" target="_blank">version</a> appeared in 
+<em>The First Structured Knowledge for Large Language Models Workshop (KDD 2025)</em>
+</li>
+</ul>
+</div>
+
 
 </div>
 
