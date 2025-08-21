@@ -12,6 +12,7 @@ Welcome to my website! I am a final-year PhD candidate in the Operations Researc
 
 
 I am broadly interested in using data to improve decision-making and in advancing the responsible, trustworthy application of machine learning and AI. More specifically, my research focuses on leveraging techniques from discrete and combinatorial optimization to develop efficient, explainable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. On the applied side, I use these methods to tackle data science problems in [healthcare](https://mitsloan.mit.edu/centers-initiatives/hsi/brian-liu-predicting-patient-success-digital-mental-healthcare) and life sciences.
+
 **I am on the 2025–2026 academic job market!**
 
 
