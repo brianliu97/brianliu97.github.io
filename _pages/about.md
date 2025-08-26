@@ -16,7 +16,7 @@ I am broadly interested in using analytics to improve decision-making and in adv
 **I am on the 2025–26 academic job market!**
 
 
-Please find my CV [here](files/cvbrian.pdf).
+Please find my CV [here](files/cvbrian1.pdf).
 
 
 
