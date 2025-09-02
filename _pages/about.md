@@ -98,7 +98,7 @@ Please find my CV [here](files/cvbrian1.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>R&R at <em>Operations Research</em></li>
+      <li>R&R in <em>Operations Research</em></li>
     </ul>
   </div>
 
@@ -128,7 +128,7 @@ Please find my CV [here](files/cvbrian1.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>To appear in <em>Journal of Machine Learning Research (JMLR)</em></li>
+      <li>To appear in the <em>Journal of Machine Learning Research (JMLR)</em></li>
     </ul>
   </div>
 
