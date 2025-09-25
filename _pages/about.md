@@ -22,10 +22,12 @@ Please find my CV [here](files/cvbrian1.pdf).
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
-- 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellowship
-- 2025 ISyE-MS&E-IOE Rising Star 
+- 2025 INFORMS Quality, Statistics and Reliability Section Best Student Paper Competition Finalist
 - 2025 American Statistical Association Statistical Computing Section Best Student Paper Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
+- 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellowship
+- 2025 ISyE-MS&E-IOE Rising Star 
+
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Working Papers</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
