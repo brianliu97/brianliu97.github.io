@@ -100,7 +100,7 @@ Please find my CV [here](files/cvbrian1.pdf).
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
       <li>R&R in <em>Operations Research</em></li>
       <span style="color: #b30000; margin-right: 0.5em;">📌</span>
-  <span style="color: #b30000;">2025 INFORMS Quality Statistics and Reliability Section Student Paper Competition Finalist.</span>
+  <span style="color: #b30000;">2025 INFORMS Quality, Statistics and Reliability Section Student Paper Competition Finalist.</span>
 </li>
     </ul>
   </div>
