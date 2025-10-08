@@ -18,6 +18,14 @@ I am broadly interested in using analytics to improve decision-making and in adv
 
 Please find my CV [here](files/cvbrian1.pdf).
 
+I will be presenting in the following sessions at the INFORMS 2025 Annual Meeting.
+
+- Quality, Statistics, and Reliability Section Best Student Paper Competition (Session SD62)
+  - Sunday, October 26, 2025, 2:45–4:00 PM — Building B, Level 4, Room B402
+
+- Advances in Machine Learning (Session TB34)
+  -  Tuesday, October 28, 2025, 11:00 AM–12:15 PM — Building B, Level 2, Room B208
+
 
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
