@@ -143,7 +143,7 @@ I will be presenting in the following sessions at the INFORMS 2025 Annual Meetin
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong> and Rahul Mazumder</li>
-      <li>To appear in the <em>Journal of Machine Learning Research (JMLR)</em></li>
+      <li><em>Journal of Machine Learning Research (JMLR)</em></li>
     </ul>
   </div>
 
