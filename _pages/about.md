@@ -98,7 +98,7 @@ I will be presenting in the following sessions at the INFORMS 2025 Annual Meetin
 
   <!-- Left: Image -->
   <div style="flex: 0 0 250px; margin-right: 25px;">
-    <img src="images/lots.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+    <img src="images/lots1.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
   </div>
 
   <!-- Right: Text without outer bullet -->
