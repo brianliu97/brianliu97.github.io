@@ -75,7 +75,7 @@ Please find my CV [here](files/brianliucv.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong>, Rahul Mazumder, and Peter Radchenko</li>
-      <li>Major Revision in the <em>Journal of the American Statistical Association (JASA)</em>, revision submitted.</li>
+      <li>Major Revision in the <em>Journal of the American Statistical Association (JASA)</em>, revision submitted</li>
     </ul>
   </div>
 
