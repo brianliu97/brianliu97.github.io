@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my website! I am a final-year PhD candidate in the Operations Research Center at MIT where I am advised by Professor Rahul Mazumder. Prior to graduate school, I was a Data and Applied Scientist at Microsoft and I graduated  Cornell with a B.S. in Operations Research.
 
 
-My research lies at the intersection of statistics, operations research, and data science, where I focus on leveraging techniques from discrete and combinatorial optimization to develop efficient, interpretable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. On the applied side, I use these methods to tackle data science problems in [healthcare](https://mitsloan.mit.edu/centers-initiatives/hsi/brian-liu-predicting-patient-success-digital-mental-healthcare) and digital platforms.
+My research lies at the intersection of computational statistics, operations research, and data science, where I focus on leveraging techniques from discrete and combinatorial optimization to develop efficient, interpretable algorithms for machine learning. I am particularly interested in extracting interpretable models from complex black boxes, with considerations to multiple objectives such as accuracy, compactness, and stability. On the applied side, I use these methods to tackle data science problems in [healthcare](https://mitsloan.mit.edu/centers-initiatives/hsi/brian-liu-predicting-patient-success-digital-mental-healthcare) and digital platforms.
 
 **I am on the 2025–26 academic job market!**
 
