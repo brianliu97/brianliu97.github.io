@@ -22,8 +22,9 @@ Please find my CV [here](files/brianliucv.pdf).
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Selected Awards</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+- 2026 American Statistical Association Nonparametric Statistics Section Best Student Paper Award Finalist
 - 2025 INFORMS Quality, Statistics and Reliability Section Best Student Paper Competition 1st Place
-- 2025 American Statistical Association Statistical Computing Section Best Student Paper 
+- 2025 American Statistical Association Statistical Computing Section Best Student Paper Award Winner
 - 2024 INFORMS Data Mining Society Best Student Paper Competition 1st Place
 - 2025 MIT Health and Life Sciences (HEALS) Collaborative Graduate Fellowship
 - 2025 ISyE-MS&E-IOE Rising Star 
@@ -76,6 +77,10 @@ Please find my CV [here](files/brianliucv.pdf).
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong>, Rahul Mazumder, and Peter Radchenko</li>
       <li>Major Revision in the <em>Journal of the American Statistical Association (JASA)</em>, revision submitted</li>
+      <li style="list-style-type: none; margin-left: -1em; display: flex; align-items: flex-start;">
+        <span style="color: #b30000; margin-right: 0.5em;">📌</span>
+        <span style="color: #b30000;">2026 American Statistical Association Nonparametric Statistics Section Best Student Paper Award Finalist.</span>
+      </li>
     </ul>
   </div>
 
