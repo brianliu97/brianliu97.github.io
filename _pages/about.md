@@ -16,7 +16,7 @@ My research lies at the intersection of computational statistics, operations res
 **I am on the 2025–26 academic job market!**
 
 
-Please find my CV [here](files/brianliucv.pdf).
+Please find my CV [here](files/brianliucv1.pdf).
 
 
 
@@ -76,7 +76,7 @@ Please find my CV [here](files/brianliucv.pdf).
     </p>
     <ul style="list-style-type: circle; margin-top: 4px;">
       <li><strong>Brian Liu</strong>, Rahul Mazumder, and Peter Radchenko</li>
-      <li>Major Revision in the <em>Journal of the American Statistical Association (JASA)</em>, revision submitted</li>
+      <li>Minor Revision in the <em>Journal of the American Statistical Association (JASA)</em></li>
       <li style="list-style-type: none; margin-left: -1em; display: flex; align-items: flex-start;">
         <span style="color: #b30000; margin-right: 0.5em;">📌</span>
         <span style="color: #b30000;">2026 American Statistical Association Nonparametric Statistics Section Best Student Paper Award Finalist.</span>
