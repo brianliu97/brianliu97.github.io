@@ -59,35 +59,6 @@ Please find my CV [here](files/brianliucv1.pdf).
 
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Under Review</h2>
-<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-
-  <!-- Left: Image -->
-  <div style="flex: 0 0 250px; margin-right: 25px;">
-    <img src="images/depth_prune.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
-  </div>
-
-  <!-- Right: Text without outer bullet -->
-  <div>
-    <p style="margin: 0;">
-      Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, 2025, 
-      <a href="https://arxiv.org/abs/2506.20114">arXiv.</a>
-    </p>
-    <ul style="list-style-type: circle; margin-top: 4px;">
-      <li><strong>Brian Liu</strong>, Rahul Mazumder, and Peter Radchenko</li>
-      <li>Minor Revision in the <em>Journal of the American Statistical Association (JASA)</em></li>
-      <li style="list-style-type: none; margin-left: -1em; display: flex; align-items: flex-start;">
-        <span style="color: #b30000; margin-right: 0.5em;">📌</span>
-        <span style="color: #b30000;">2026 American Statistical Association Nonparametric Statistics Section Best Student Paper Award Finalist.</span>
-      </li>
-    </ul>
-  </div>
-
-</div>
-
-<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 <!-- - **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research. -->
 
@@ -122,6 +93,35 @@ Please find my CV [here](files/brianliucv1.pdf).
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Publications</h2>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
 
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 250px; margin-right: 25px;">
+    <img src="images/depth_prune.png" alt="Paper Figure" style="width: 250px; border-radius: 8px;">
+  </div>
+
+  <!-- Right: Text without outer bullet -->
+  <div>
+    <p style="margin: 0;">
+      Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives, 2025, 
+      <a href="https://arxiv.org/abs/2506.20114">arXiv.</a>
+    </p>
+    <ul style="list-style-type: circle; margin-top: 4px;">
+      <li><strong>Brian Liu</strong>, Rahul Mazumder, and Peter Radchenko</li>
+      <li>To appear in the <em>Journal of the American Statistical Association (JASA)</em></li>
+      <li style="list-style-type: none; margin-left: -1em; display: flex; align-items: flex-start;">
+        <span style="color: #b30000; margin-right: 0.5em;">📌</span>
+        <span style="color: #b30000;">2026 American Statistical Association Nonparametric Statistics Section Best Student Paper Award Finalist.</span>
+      </li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
 
 
 
