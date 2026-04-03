@@ -59,7 +59,7 @@ Please find my CV [here](files/brianliucv1.pdf).
 
 
 <h2 style="margin-bottom: 0.25em; border-bottom: none; box-shadow: none;">Under Review</h2>
-
+<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
 <!-- - **B. Liu** and R. Mazumder. Locally Transparent Rule Sets for Explainable Machine Learning, 2025. Submitted to Operations Research. -->
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -94,7 +94,7 @@ Please find my CV [here](files/brianliucv1.pdf).
 <hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;">
 
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 0.5em 0 2em;">
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
 
